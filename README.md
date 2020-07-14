@@ -44,7 +44,7 @@ If you found any bug on this plugin please report it:
         * Other plugins and their version, when reporting an issue between MaintenanceMode and some other mod
             * Also consider updating these before submitting a new issue, it might be already fixed
         * A detailed description of the bug or feature
-    * Also give these informations:
+    * Optional informations:
         * What was expected?
         * How to reproduce the problem?
         * Server or Client side
