@@ -12,7 +12,7 @@
 
 This plugin adds the functionality to the admins to "put" the game server in Maintenance Mode. If the player entered aren't a Admin (can choose the flag), he will be kicked with a personalizated message inside of translations.
 
-This plugin also was requested in one topic on the Forum: [Go to the Topic](https://forum.virtual4host.pt/index.php?/topic/28-que-plugins-gostavam-que-fossem-feitos-do-0/&do=findComment&comment=40)
+This plugin also was requested in one topic on the Forum: [Topic](https://forum.virtual4host.pt/index.php?/topic/28-que-plugins-gostavam-que-fossem-feitos-do-0/&do=findComment&comment=40)
 
 ## Contacts
 
