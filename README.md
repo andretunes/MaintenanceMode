@@ -10,7 +10,7 @@
 
 ## About
 
-This plugin adds the functionality to the admins to "put" the game server in Maintenance Mode. If the player entered aren't a Admin, he will be kicked with a personalizated message inside of translations and after run the command (!maintenance or !manutencao), All Players except Admins will be kicked with the same message. To better view see the [Showcase](#showcase) zone.
+This plugin adds the functionality to the admins to "put" the game server in Maintenance Mode. If the player that just entered aren't a Admin, he will be kicked with a personalizated message inside of translations and after run the command (!maintenance or !manutencao), All Players except Admins will be kicked with the same message. To better view see the [Showcase](#showcase) zone.
 
 This plugin also was requested in one topic on the Forum: [Topic](https://forum.virtual4host.pt/index.php?/topic/28-que-plugins-gostavam-que-fossem-feitos-do-0/&do=findComment&comment=40)
 
