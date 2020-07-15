@@ -32,7 +32,9 @@ Functions:
 
 [GitHub](https://github.com/andretunes/MaintenanceMode/releases/)
 
-## Showcase [Soon (TM)]
+## Showcase
+
+[YouTube](https://www.youtube.com/watch?v=ln0NNuwsjUE)
 
 ## Issues
 
