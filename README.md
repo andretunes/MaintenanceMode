@@ -14,6 +14,12 @@ This plugin adds the functionality to the admins to "put" the game server in Mai
 
 This plugin also was requested in one topic on the Forum: [Topic](https://forum.virtual4host.pt/index.php?/topic/28-que-plugins-gostavam-que-fossem-feitos-do-0/&do=findComment&comment=40)
 
+Functions:
+* Allows kicking all non-Admins with just one command;
+* If a Player enters, he will be kicked and presented a customizable message in the translations;
+* Plugin and command in both English and Portuguese;
+* Easy and quick to use.
+
 ## Contacts
 
 * [Website](https://www.andrezzz.pt/)
