@@ -5,7 +5,7 @@
 * [About](#about)
 * [Contacts](#contacts)
 * [Downloads](#downloads)
-* [Showcase](#showcase) Soon (TM)
+* [Showcase](#showcase)
 * [Issues](#issues)
 
 ## About
