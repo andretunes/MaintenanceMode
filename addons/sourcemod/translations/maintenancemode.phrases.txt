@@ -1,0 +1,21 @@
+"Phrases"
+{
+	"MessageKick"
+	{
+		"#format" "{1:s}"
+		"en"	"Hello {1}, This server is in Maintenance, please wait until the Admins finish it."
+		"pt"	"Olá {1}, Este servidor está em Manutenção, por favor aguarda enquanto os Admins a terminam."
+	}
+	
+	"EnabledMaintenanceMode"
+	{
+		"en"	"Maintenance Mode Enabled and all Players Kicked."
+		"pt"	"Modo de Manutenção Ativado e todos os Jogadores Kickados."
+	}
+	
+	"DisabledMaintenanceMode"
+	{
+		"en"	"Maintenance Mode Disabled, now all Players can join."
+		"pt"	"Modo de Manutenção Desativado, agora todos os Jogadores podem entrar."
+	}
+}
